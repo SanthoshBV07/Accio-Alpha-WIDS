@@ -1,20 +1,16 @@
-# WiDS-2025
+# WIDS Bootcamp Repository
 
-Welcome to Winter in Data Science Program!
-This README will guide you through the resources and materials provided in this repository to ensure a smooth and effective learning experience.  
+This repository is a fork of the main [Accio-Alpha-WIDS](https://github.com/shreshtha21/Accio-Alpha) repository. It serves as a personal workspace for the tasks and projects assigned during the bootcamp.
 
-## Table of Contents
+## 📁 Submissions
 
-1. [Week-1](/Week-1/)   
-    We'll be diving into the fundamentals of Python and essential data science libraries such as NumPy and Matplotlib. Also, with some basics of Statistics.
-2. [Week-2](/Week-2/)
-3. [Week-3](/Week-3/)
-4. [Week-4](/Week-4/)
-5. [BONUS WEEK](/BONUS/)   
-## Getting Started
+All relevant submissions made throughout the course of the bootcamp can be found in the following directory:
 
-Clone this repository to your local machine using the following command:
+`./submissions`
 
-```
-git clone https://github.com/shreshtha21/Accio-Alpha
-```
+This folder contains:
+* Project files
+* Analysis notebooks
+
+---
+*Developed as part of the Accio Alpha Winter in Data Science (WIDS) Bootcamp.*
